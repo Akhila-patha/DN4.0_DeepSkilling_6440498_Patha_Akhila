@@ -1,0 +1,5 @@
+15:16:29.171 [com.example.logging.LoggingDemo.main()] DEBUG com.example.logging.LoggingDemo - This is a DEBUG message
+15:16:29.177 [com.example.logging.LoggingDemo.main()] INFO  com.example.logging.LoggingDemo - This is an INFO message
+15:16:29.179 [com.example.logging.LoggingDemo.main()] WARN  com.example.logging.LoggingDemo - This is a WARN message
+15:16:29.181 [com.example.logging.LoggingDemo.main()] ERROR com.example.logging.LoggingDemo - This is an ERROR message
+15:16:29.188 [com.example.logging.LoggingDemo.main()] INFO  com.example.logging.LoggingDemo - Application logging using both console and file appenders is working.
