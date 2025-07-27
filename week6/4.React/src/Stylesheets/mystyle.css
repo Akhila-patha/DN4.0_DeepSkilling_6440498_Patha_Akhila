@@ -1,0 +1,36 @@
+.student-details {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.student-details h1 {
+  color: brown;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.name {
+  color: blue;
+}
+
+.school {
+  color: purple;
+}
+
+.total {
+  color: red;
+}
+
+.score {
+  color: green;
+}
+
+p {
+  font-size: 18px;
+  margin: 10px 0;
+}
